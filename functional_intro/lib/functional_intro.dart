@@ -1,0 +1,1 @@
+String scream(int length) => "A${'ha' * length}!";
